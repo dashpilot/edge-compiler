@@ -1,0 +1,17 @@
+{
+  "name": "edge-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-template-engine": "^1.0.7",
+    "handlebars": "^4.7.8",
+    "sfc-vanilla": "^1.0.4"
+  }
+}
